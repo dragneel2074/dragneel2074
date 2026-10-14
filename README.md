@@ -1,6 +1,36 @@
-# 💫 About Me:
-## About Me<br><br>I’m Prasant Bagale, an AI/ML engineer from Kathmandu, Nepal, pursuing a Master’s in Data Science at Tribhuvan University. My interests include large language models, Generative AI, multilingual NLP, and speech technologies for low-resource languages.<br><br>My projects cover Nepali text summarization, sentiment analysis, speech recognition, and text-to-speech. I have fine-tuned mBART and Phi models for Nepali summarization and shared Nepali ASR and TTS models on Hugging Face. I have also developed a DistilBERT model for customer support ticket classification.<br><br>Beyond model training, I build applications that use language models. My work includes chat interfaces for querying website content, a document chatbot using LlamaIndex and Qdrant, and a web novel recommendation system using FAISS. I also develop mobile applications with Flutter and maintain Llama-Flutter, a plugin for running GGUF models on Android through llama.cpp.<br><br>### I’m currently working on<br>Nepali speech recognition and studying checkpoint averaging as a substitute for merging LoRA adapters trained with multiple random seeds.<br><br>### I’m looking to collaborate on<br>LLM and Generative AI applications, RAG systems, multilingual NLP, and speech technologies for Nepali and other low-resource languages.<br><br>### I’m looking for help with<br>Making research experiments easier to reproduce and improving the evaluation and deployment of language and speech models.<br><br>### I’m currently learning<br>Parameter-efficient fine-tuning, model averaging, and efficient inference for running language models on devices with limited resources.<br><br>### Ask me about<br>LLMs, Generative AI, RAG, model fine-tuning, Nepali NLP, Flutter, and running language models locally on Android.<br><br>### Fun fact<br>I have built a web novel recommendation system, so my projects also reflect my interest in stories.<br><br>
+# About Me
 
+I’m Prasant Bagale, an AI/ML engineer from Kathmandu, Nepal, pursuing a Master’s in Data Science at Tribhuvan University. My interests include large language models, Generative AI, multilingual NLP, and speech technologies for low-resource languages.
+
+My projects cover Nepali text summarization, sentiment analysis, speech recognition, and text-to-speech. I have fine-tuned mBART and Phi models for Nepali summarization and shared Nepali ASR and TTS models on Hugging Face. I have also developed a DistilBERT model for customer support ticket classification.
+
+Beyond model training, I build applications that use language models. My work includes chat interfaces for querying website content, a document chatbot using LlamaIndex and Qdrant, and a web novel recommendation system using FAISS. I also develop mobile applications with Flutter and maintain Llama-Flutter, a plugin for running GGUF models on Android through llama.cpp.
+
+## I’m currently working on
+
+Nepali speech recognition and studying checkpoint averaging as a substitute for merging LoRA adapters trained with multiple random seeds.
+
+## I’m looking to collaborate on
+
+LLM and Generative AI applications, RAG systems, multilingual NLP, and speech technologies for Nepali and other low-resource languages.
+
+## I’m looking for help with
+
+Making research experiments easier to reproduce and improving the evaluation and deployment of language and speech models.
+
+## I’m currently learning
+
+Parameter-efficient fine-tuning, model averaging, and efficient inference for running language models on devices with limited resources.
+
+## Ask me about
+
+LLMs, Generative AI, RAG, model fine-tuning, Nepali NLP, Flutter, and running language models locally on Android.
+
+## Fun fact
+
+I have built a web novel recommendation system, so my projects also reflect my interest in stories.
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prasant-bagale/) 
