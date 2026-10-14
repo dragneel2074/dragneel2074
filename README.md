@@ -16,10 +16,6 @@ Nepali speech recognition and studying checkpoint averaging as a substitute for 
 
 LLM and Generative AI applications, RAG systems, multilingual NLP, and speech technologies for Nepali and other low-resource languages.
 
-## I’m looking for help with
-
-Making research experiments easier to reproduce and improving the evaluation and deployment of language and speech models.
-
 ---
 
 ## 🌐 Socials:
