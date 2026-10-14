@@ -6,6 +6,8 @@ My projects cover Nepali text summarization, sentiment analysis, speech recognit
 
 Beyond model training, I build applications that use language models. My work includes chat interfaces for querying website content, a document chatbot using LlamaIndex and Qdrant, and a web novel recommendation system using FAISS. I also develop mobile applications with Flutter and maintain Llama-Flutter, a plugin for running GGUF models on Android through llama.cpp.
 
+Reach me at prasantbagale78@gmail.com
+
 ## I’m currently working on
 
 Nepali speech recognition and studying checkpoint averaging as a substitute for merging LoRA adapters trained with multiple random seeds.
@@ -17,18 +19,6 @@ LLM and Generative AI applications, RAG systems, multilingual NLP, and speech te
 ## I’m looking for help with
 
 Making research experiments easier to reproduce and improving the evaluation and deployment of language and speech models.
-
-## I’m currently learning
-
-Parameter-efficient fine-tuning, model averaging, and efficient inference for running language models on devices with limited resources.
-
-## Ask me about
-
-LLMs, Generative AI, RAG, model fine-tuning, Nepali NLP, Flutter, and running language models locally on Android.
-
-## Fun fact
-
-I have built a web novel recommendation system, so my projects also reflect my interest in stories.
 
 ---
 
